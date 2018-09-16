@@ -5719,3 +5719,7 @@ img[src$="#r"] {
 div.subtitle.tags{
   margin-bottom: 0px;
 }
+
+pre[class*="language-"]{
+  border-radius: 0;
+}
